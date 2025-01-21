@@ -19,13 +19,13 @@ Es similar a un bucle **`for`** en JavaScript, pero se utiliza dentro de los arc
     let numeros = [1, 2, 3, 4, 5];
 </script>
 
-<ul>
 ```bash
+<ul>
     {#each numeros as numero}
         <li>{numero}</li>
     {/each}
-```
 </ul>
+```
 
 > [!IMPORTANT]
 > En resumen, **`{#each}`** es una directiva del lenguaje de plantillas de Svelte, diseñada para iterar y renderizar contenido dinámico de manera declarativa.
