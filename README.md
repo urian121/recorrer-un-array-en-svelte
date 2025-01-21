@@ -1,6 +1,6 @@
 # Recorrer un array en Svelte
 
-En Svelte, **`{#each}`** no es un método ni una función, sino una estructura de control declarativa que forma parte del lenguaje de plantillas de Svelte.
+En Svelte, **`{#each}`** no es un método ni una función, sino una **estructura de control declarativa** que forma parte del lenguaje de plantillas de Svelte.
 Es similar a un bucle **`for`** en JavaScript, pero se utiliza dentro de los archivos `.svelte` para iterar sobre arrays y renderizar contenido dinámico en el DOM.
 
 
